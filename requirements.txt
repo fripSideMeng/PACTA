@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+torchaudio
+accelerate
+bitsandbytes
+transformers
+tokenizers
+langchain
+sentence-transformers
+openai
+requests
+retry
+tqdm
+python-dotenv
+fuzzywuzzy
+chardet
+python-Levenshtein
+peft
+datasets
